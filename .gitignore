@@ -1,0 +1,5 @@
+.idea/
+storage/
+__pycache__/
+notebooks/.ipynb_checkpoints/
+lightning_logs/

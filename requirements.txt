@@ -1,0 +1,6 @@
+tqdm==4.62.3
+numpy==1.21.3
+torch==1.9.1
+pytorch_lightning==1.4.9
+matplotlib==3.4.3
+jupyterlab==3.2.1
